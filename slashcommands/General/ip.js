@@ -16,7 +16,7 @@ module.exports = {
 
         await interaction.reply({ 
             content: " ## <a:logoanimated:1424808124681949275> • **__¡SERVIDOR ABIERTO!__**  <a:logoanimated:1424808124681949275>  <@&1036532742160138261>   <a:pin:1148476023751573544>",
-        	embeds: [embed]
+        	embeds: [embed],
             allowedMentions: { roles: ['1036532742160138261'] } 
         });
     	}
